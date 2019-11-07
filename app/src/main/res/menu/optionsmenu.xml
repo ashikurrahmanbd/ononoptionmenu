@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/feedmenuid"
+        app:showAsAction="never"
+        android:title="FeedBack Us">
+
+    </item>
+
+    <item
+        android:id="@+id/shareId"
+        app:showAsAction="never"
+        android:title="Share">
+
+    </item>
+
+</menu>
